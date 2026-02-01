@@ -60,4 +60,5 @@ To demonstrate real-world applicability, the trained model was tested on **previ
 
 ## 📂 Project Structure
 ├── Finalproject.ipynb # Jupyter notebook with full ML pipeline
+
 ├── README.md # Project documentation
